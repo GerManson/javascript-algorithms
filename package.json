@@ -1,0 +1,9 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "description": "Algorithms and data structures implemented in JavaScript for academic purposes",
+  "main": "index.js",
+  "repository": "git@github.com:GerManson/javascript-algorithms.git",
+  "author": "German Rodriguez <germanson@gmail.com>",
+  "license": "MIT"
+}
