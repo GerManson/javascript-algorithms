@@ -1,6 +1,8 @@
 # javascript-algorithms
 📚Algorithms and data structures implemented in JavaScript for academic purposes
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript Logo" width="200" />
+
 ## Algorithms & Excercies
 
 - [Reverse String](reversestring/index.js) => Given a string, return a new string with the reversed order of characters
